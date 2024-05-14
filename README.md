@@ -1,5 +1,7 @@
 # X99 Rocket Hackintosh - Machinist MR9A Pro X99, Intel Xeon E5 2667v4 and RX 5700 XT
 
+![Overview](https://github.com/luchina-gabriel/EFI-X99-MACHINIST-MR9A-XEON-E5-2667-V4-RX-5700-XT-PUBLIC/assets/23700365/00e3e410-f7f8-4b98-9592-3622cec75347)
+
 # Basic Information
 
 **Latest working macOS**: macOS Sonoma (14.5)
